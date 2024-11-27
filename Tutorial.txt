@@ -1,0 +1,23 @@
+Tutorial Install Aplikasi Extract PDF Bukti Pembayaran Pajak :
+
+1. Pertama clone lah repository dari Github ini
+2. Setelah berhasil di clone, maka masuk ke dalam file back_end, lalu bukak Terminal powershell/commandprompt/gitbash didalam file back_end
+3. Setelah Terminal terbuka maka masukkan lah command yaitu "npm install"
+4. Setelah proses penginstalan library berhasil maka aplikasi back_end bisa di running dengan command "npm run dev".
+5. Setelah command ini berhasil,maka di terminal akan muncul tulisan "Server berjalan di http://localhost:3010", maka server back_end sudah berjalan
+6. Pastikan port yang berjalan berada di 3010, karena di aplikasi front_end sudah menyesuaikan dengan port ini.
+7. Setelah aplikasi back_end berjalan maka biarkanlah terminal aplikasi back_end itu berjalan,dan bukak lah file front_end pada clone repository tadi
+8.Bukak Terminal powershell/commandprompt/gitbash di file front_end
+9.Setelah Terminal aplikasi front_end terbuka maka masukkan lah command yaitu "npm install"
+10.Setelah proses penginstalan library front_end berhasil maka aplikasi front_end bisa di running dengan command "npm run dev"
+11. Setelah command di atas di jalankan maka di Terminal akan muncul  
+VITE v6.0.0  ready in 906 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+12. Setelah tulisan di atas muncul, maka Service front_end sudah berhasil berjalan
+13. Bukaklah browser seperti GoogleChrome,disarankan memakai browser ini
+14. Masukkan url ini Local:   http://localhost:5173/
+15. Setelah service back_end atau front_end nya sudah berjalan,maka aplikasi dapat digunakan

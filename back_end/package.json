@@ -1,0 +1,21 @@
+{
+  "name": "test_pt_sinergi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.7",
+    "pdf-extract": "^1.0.11",
+    "pdf-extractor": "^2.2.0",
+    "pdf-parse": "^1.1.1",
+    "pdfkit": "^0.15.1"
+  }
+}
